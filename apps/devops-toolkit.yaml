@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: http://github.com/nicolache/devops-toolkit
+  url: http://localhubxxxgithub.com/nicolache/devops-toolkit
